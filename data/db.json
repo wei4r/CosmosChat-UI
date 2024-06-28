@@ -1,0 +1,114 @@
+{
+  "sessions": [
+    {
+      "id": "1",
+      "date": "Jun 28, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "Hello, give me the background knowledge you've learned.",
+          "ReX": "Error in fetch response from OpenAI. Please try again."
+        },
+        {
+          "user": "Hello",
+          "ReX": "Error in fetch response from OpenAI. Please try again."
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "2",
+      "date": "Jun 28, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "3",
+      "date": "Jun 28, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "Hello",
+          "ReX": "Error in fetch response from OpenAI. Please try again."
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "4",
+      "date": "Jun 28, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "Hello",
+          "ReX": "Error in fetch response from OpenAI. Please try again."
+        },
+        {
+          "user": "Hello",
+          "ReX": "Error in fetch response from OpenAI. Please try again."
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "5",
+      "date": "Jun 28, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "Hello",
+          "ReX": "Error in fetch response from OpenAI. Please try again."
+        },
+        {
+          "user": "Hello",
+          "ReX": "Hello! How can I assist you with your career today?"
+        },
+        {
+          "user": "Hello, I need guidance to build a career on Frontend Development.",
+          "ReX": "Hello! To build a career in Frontend Development, start by learning HTML, CSS, and JavaScript. Practice building projects to showcase your skills. Consider taking online courses or coding bootcamps to deepen your knowledge. Network with professionals in the field, work on open-source projects, and create an impressive portfolio. Stay updated on industry trends and technologies. Aim for internships or junior roles to gain practical experience. Remember, consistency and continuous learning are key to success in Frontend Development. Good luck!"
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "6",
+      "date": "Jun 28, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        }
+      ],
+      "isSessionEnded": false
+    }
+  ]
+}
